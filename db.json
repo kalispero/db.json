@@ -1,4 +1,4 @@
-{"events":[
+{"events":
 {
     "imagePath": "assets/event_images/5_km_downtown_run.jpeg",
     "title": "5 Kilometer Downtown Run",
@@ -82,5 +82,5 @@
     "punchLine2": "The latest fad in foodology, get the inside scoup.",
     "galleryImages": [],
     "categoryIds": [0, 3]
-}]
+}
 }
